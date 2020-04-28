@@ -1,0 +1,7 @@
+hostname;ip;username;password;secret;device_type
+RU-35-RC5-02;172.20.235.3;username;password;;cisco_ios
+RU-35-RC5-SW1-2960X2;172.20.235.4;username;password;;cisco_ios
+RU-35-RC5-SW2-2960X1;172.20.235.5;username;password;;cisco_ios
+RU-35-RC5-SW3-2960X1;172.20.235.6;username;password;;cisco_ios
+RU-35-RC5-SW4-2960X1;172.20.235.7;username;password;;cisco_ios
+RU-35-RC5-SW5-2960X3;172.20.235.8;username;password;;cisco_ios
