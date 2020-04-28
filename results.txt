@@ -1,11 +1,12 @@
+Got a timestamp
+
+2020_04_29-01_50_03
+Got the device list from inventory
+
 RU-35-RC5-02|C1111-8P|c1100-universalk9_ias.16.09.04.SPA.bin|PE |CDP is ON ,1 peers|Clock in Sync|Config backuped
 RU-35-RC5-SW3-2960X1|WS-C2960RX-48FPS-L|c2960x-universalk9-mz.152-4.E8.bin|PE |CDP is ON ,4 peers|Clock in Sync|Config backuped
 RU-35-RC5-SW4-2960X1|WS-C2960RX-24PS-L|c2960x-universalk9-mz.152-4.E8.bin|PE |CDP is ON ,10 peers|Clock in Sync|Config backuped
 RU-35-RC5-SW1-2960X2|WS-C2960RX-24PS-L|c2960x-universalk9-mz.152-4.E8.bin|PE |CDP is ON ,10 peers|Clock in Sync|Config backuped
 RU-35-RC5-SW2-2960X1|WS-C2960RX-48FPS-L|c2960x-universalk9-mz.152-4.E8.bin|PE |CDP is ON ,12 peers|Clock in Sync|Config backuped
 RU-35-RC5-SW5-2960X3|WS-C2960RX-24PS-L|c2960x-universalk9-mz.152-4.E8.bin|PE |CDP is ON ,4 peers|Clock in Sync|Config backuped
-Got a timestamp
-
-2020_04_29-01_50_03
-Got the device list from inventory
 
